@@ -1,4 +1,4 @@
-connection: "looker-private-demo"
+connection: "sample_bigquery_connection"
 # include: "/demo_vitals/*.view.lkml"
 include: "/simplified_views/*.view.lkml"
 include: "/unnested_views/*.view.lkml"
